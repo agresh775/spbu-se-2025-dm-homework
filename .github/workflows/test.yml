@@ -1,0 +1,19 @@
+name: Run tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  tests:
+    name: Run tests for problems
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v4
+
+      - name: Preapre solution
+        run: ./prepare.sh
+
+      - name: Run tests
+        run: ./tests/runner/run.py
