@@ -1,0 +1,8 @@
+7 6
+d n h y m u v
+v n
+n d
+y d
+v d
+v u
+v h

@@ -1,0 +1,17 @@
+8 15
+u l v m w d q t
+d m
+d q
+d t
+m v
+q d
+q u
+q v
+v l
+t m
+q l
+w q
+t d
+v m
+t v
+l m

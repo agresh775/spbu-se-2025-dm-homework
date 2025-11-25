@@ -1,0 +1,12 @@
+9 10
+i f k x v g d n b
+b g
+b n
+d f
+g x
+x k
+n i
+b i
+b k
+d i
+x f

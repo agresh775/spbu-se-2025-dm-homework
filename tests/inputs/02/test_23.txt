@@ -1,0 +1,18 @@
+10 16
+e u p w v b t k f j
+b u
+t e
+f k
+b e
+v p
+j p
+w e
+k w
+f w
+k u
+t u
+f u
+f t
+j v
+j k
+k p

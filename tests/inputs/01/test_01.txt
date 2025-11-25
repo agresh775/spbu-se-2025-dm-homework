@@ -1,0 +1,7 @@
+3 5
+x y z
+x x
+y y
+z z
+x y
+y x

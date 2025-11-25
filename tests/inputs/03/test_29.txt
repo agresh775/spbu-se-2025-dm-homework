@@ -1,0 +1,6 @@
+6 4
+l g u d h b
+d l
+b l
+d u
+h l

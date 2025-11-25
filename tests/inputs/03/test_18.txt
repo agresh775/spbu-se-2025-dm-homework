@@ -1,0 +1,11 @@
+8 9
+c h z m b k x o
+b m
+k c
+o c
+x c
+z c
+o x
+z h
+k m
+m c

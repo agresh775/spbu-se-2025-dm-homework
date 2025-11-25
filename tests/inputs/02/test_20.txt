@@ -1,0 +1,7 @@
+6 5
+d h a f m q
+q h
+m h
+a h
+q d
+h d

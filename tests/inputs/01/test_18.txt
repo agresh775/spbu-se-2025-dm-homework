@@ -1,0 +1,24 @@
+5 22
+u g w x m
+g u
+x u
+g x
+g g
+x x
+w w
+x g
+g m
+m w
+x m
+u w
+u u
+m u
+u x
+w g
+m x
+w m
+u g
+u m
+m m
+g w
+x w

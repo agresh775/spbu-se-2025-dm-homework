@@ -1,0 +1,17 @@
+10 15
+x v z q s u k b c o
+o s
+k s
+s q
+u z
+b z
+c q
+u x
+o c
+b k
+c z
+s z
+c u
+o u
+u q
+c v

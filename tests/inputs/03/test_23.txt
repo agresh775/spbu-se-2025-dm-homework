@@ -1,0 +1,6 @@
+4 4
+a v g n
+g a
+n v
+n a
+g v

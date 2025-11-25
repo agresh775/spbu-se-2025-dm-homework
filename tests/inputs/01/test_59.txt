@@ -1,0 +1,6 @@
+2 4
+b d
+b d
+d b
+b b
+d d

@@ -1,0 +1,10 @@
+7 8
+j g o u e i k
+o g
+u g
+k i
+g j
+u o
+k j
+i e
+k u

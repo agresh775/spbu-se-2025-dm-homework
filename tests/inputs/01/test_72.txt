@@ -1,0 +1,15 @@
+5 13
+b t h n p
+h p
+b b
+p n
+p t
+n t
+n n
+t t
+b p
+b t
+t b
+n h
+p p
+b h

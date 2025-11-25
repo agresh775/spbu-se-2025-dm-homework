@@ -1,0 +1,16 @@
+9 14
+b g c p z t w v h
+t p
+z h
+t g
+c c
+z p
+c v
+g p
+p w
+t z
+h b
+g g
+t h
+w v
+g t

@@ -1,0 +1,8 @@
+5 6
+o f y d n
+d f
+d o
+y f
+d y
+n d
+n o

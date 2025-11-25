@@ -1,0 +1,4 @@
+5 2
+g p h s y
+s h
+p g

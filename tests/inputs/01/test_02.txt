@@ -1,0 +1,10 @@
+4 8
+p q r s
+p p
+q q
+r r
+s s
+p q
+q r
+p r
+q s

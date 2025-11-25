@@ -1,0 +1,21 @@
+6 19
+v a b k f x
+b x
+f k
+b k
+b a
+k x
+x a
+x k
+k a
+a x
+k v
+a k
+a a
+v a
+a v
+v v
+a b
+v b
+b f
+x f

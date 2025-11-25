@@ -1,0 +1,10 @@
+4 8
+n w r y
+n y
+w y
+w n
+r r
+n r
+y y
+r w
+w w

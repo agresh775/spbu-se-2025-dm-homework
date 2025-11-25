@@ -1,0 +1,7 @@
+3 5
+v m p
+v v
+m v
+v p
+p v
+m m

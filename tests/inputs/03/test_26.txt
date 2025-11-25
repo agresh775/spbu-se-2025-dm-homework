@@ -1,0 +1,8 @@
+10 6
+k v c f m d h r s t
+h v
+r f
+f k
+t f
+v k
+t h

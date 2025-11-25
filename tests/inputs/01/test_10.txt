@@ -1,0 +1,6 @@
+3 4
+x y z
+x y
+y x
+y z
+z y

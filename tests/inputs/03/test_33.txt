@@ -1,0 +1,16 @@
+10 14
+w c x a d f y t h p
+c w
+p w
+p x
+d x
+p a
+t y
+h x
+y a
+t d
+a x
+f c
+p f
+y f
+h t

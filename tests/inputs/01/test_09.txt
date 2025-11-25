@@ -1,0 +1,7 @@
+3 5
+p q r
+p p
+q q
+r r
+p q
+q r

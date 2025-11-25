@@ -1,0 +1,6 @@
+w x
+w y
+w z
+x y
+x z
+y z

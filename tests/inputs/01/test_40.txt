@@ -1,0 +1,9 @@
+3 7
+p a s
+p a
+a p
+p s
+s p
+p p
+a s
+s a

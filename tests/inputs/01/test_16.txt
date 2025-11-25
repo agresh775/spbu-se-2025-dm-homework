@@ -1,0 +1,20 @@
+5 18
+j b y m x
+j b
+b b
+x m
+m b
+j y
+b y
+j j
+m j
+x b
+m x
+b j
+y b
+j x
+x y
+y j
+y x
+m m
+x x

@@ -1,0 +1,6 @@
+2 4
+s b
+s s
+b b
+s b
+b s

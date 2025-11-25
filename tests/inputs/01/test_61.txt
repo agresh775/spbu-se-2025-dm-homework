@@ -1,0 +1,25 @@
+10 23
+w f v r u y q x s z
+y u
+w w
+v s
+z w
+v u
+u w
+s u
+x v
+r z
+u s
+s q
+u x
+w q
+f z
+z r
+r s
+f w
+f f
+r u
+r x
+y z
+y w
+f u

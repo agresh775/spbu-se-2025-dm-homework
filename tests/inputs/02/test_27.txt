@@ -1,0 +1,8 @@
+7 6
+c l h a b p q
+b h
+q p
+p b
+a l
+p c
+q l

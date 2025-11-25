@@ -1,0 +1,18 @@
+4 16
+w r m f
+w f
+m w
+m f
+f r
+f m
+r r
+w r
+r m
+w m
+f w
+m m
+m r
+r w
+w w
+f f
+r f

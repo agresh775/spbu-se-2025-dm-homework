@@ -1,0 +1,12 @@
+4 10
+e w a x
+x e
+w x
+e w
+a x
+w e
+a e
+e a
+x x
+w w
+a w

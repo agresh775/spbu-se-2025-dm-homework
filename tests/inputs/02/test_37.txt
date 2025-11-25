@@ -1,0 +1,8 @@
+6 6
+w g b l h d
+b w
+h w
+l w
+d l
+d g
+g w

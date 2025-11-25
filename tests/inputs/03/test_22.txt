@@ -1,0 +1,8 @@
+6 6
+a f d v y w
+w d
+d a
+v a
+y d
+w f
+d f

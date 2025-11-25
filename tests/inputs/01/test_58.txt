@@ -1,0 +1,6 @@
+3 4
+a l k
+l l
+l a
+k k
+k l

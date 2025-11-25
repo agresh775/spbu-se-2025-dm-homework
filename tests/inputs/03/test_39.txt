@@ -1,0 +1,18 @@
+9 16
+e g c h p w f k m
+h c
+m w
+m e
+m h
+h e
+k e
+p g
+m k
+w h
+f h
+c g
+m f
+p h
+m c
+h g
+k f

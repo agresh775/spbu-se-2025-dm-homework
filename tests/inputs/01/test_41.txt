@@ -1,0 +1,17 @@
+5 15
+z d u s l
+s s
+l s
+z u
+s d
+l u
+l d
+d s
+d z
+s l
+l l
+d l
+s u
+s z
+u d
+z z

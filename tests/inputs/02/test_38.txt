@@ -1,0 +1,4 @@
+5 2
+v c q m r
+r q
+m c

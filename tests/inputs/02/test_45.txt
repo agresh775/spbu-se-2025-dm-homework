@@ -1,0 +1,6 @@
+5 4
+y r c m e
+m y
+e c
+c y
+m c

@@ -1,0 +1,16 @@
+4 14
+d q i v
+d q
+q q
+v v
+v d
+i q
+q d
+q v
+i v
+i d
+d d
+v i
+d v
+q i
+i i
